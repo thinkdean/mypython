@@ -6,3 +6,5 @@ In daily practice, learn the code
 人脸识别：加载“facemodel.xml"可以通过摄像头动态识别图像人脸。
 
 2、c语言计算运行时间
+
+3、Java操作mysql
